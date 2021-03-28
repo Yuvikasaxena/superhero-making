@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://images.unsplash.com/photo-1561149877-84d268ba65b8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYxNjU4NDc5Nw&ixlib=rb-1.2.1&q=85");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
